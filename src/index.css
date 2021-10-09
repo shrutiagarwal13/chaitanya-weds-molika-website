@@ -282,15 +282,16 @@ body {
 /* --------------- INTRO SECTION ------------------------- */
 
 .introduction-section {
-  /* background-image: url('./images/image.jpg'); */
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/Screenshot 2021-10-07 at 21.37.38.png');
+  /* background-image: url(''./images/image.jpg'); */
+  /* background-image: url('./images/Screenshot 2021-10-07 at 21.37.38.png');
   background-size: cover;
   background-repeat: no-repeat; */
-  background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
+  background-image: url('./images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
+  /* background-image: url('../src/images/'); */
   /* background-size: cover; */
   /* background-repeat: no-repeat; */
   background-attachment: fixed;
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/2ec7b332fd6ad908ff4933fa4a8ac04c.jpeg');
+  /* background-image: url('./images/2ec7b332fd6ad908ff4933fa4a8ac04c.jpeg');
   background-size: contain; */
   /* background-repeat: repeat-y; */
 
@@ -625,8 +626,8 @@ body {
     rgba(209, 148, 19, 1) 100%
   );
   /* background-image: url('../src/images/friends-msgs-bg.jpg'); */
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/pngtree-pink-delicate-floral-envelope-background-image_589183.jpeg'); */
-  background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
+  /* background-image: url('./images/pngtree-pink-delicate-floral-envelope-background-image_589183.jpeg'); */
+  background-image: url('./images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
   /* background-size: cover; */
   /* background-repeat: no-repeat; */
   background-attachment: fixed;
@@ -763,7 +764,7 @@ body {
 
   padding-bottom: 5%;
   /* background-image: url('../src/images/balloon-bg.jpg'); */
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/image copy.png'); */
+  /* background-image: url('./images/image copy.png'); */
   background-image: url('../src/images/venue-bg1.jpg');
   /* background-size: cover; */
 }
@@ -857,8 +858,8 @@ body {
 .rsvp-section {
   padding-top: 2%;
   padding-bottom: 7%;
-  /* background-image: url('./images/rsvp-bg.jpg'); */
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/27424893-vector-seamless-pattern-for-wedding-invitation-or-vintage-background.jpeg'); */
+  /* background-image: url(''./images/rsvp-bg.jpg'); */
+  /* background-image: url('./images/27424893-vector-seamless-pattern-for-wedding-invitation-or-vintage-background.jpeg'); */
   background-image: url('../src/images/rsvp-bg1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -923,9 +924,9 @@ body {
 
 .hashtag-section {
   /* background-image: url('../src/images/wood-bg1.jpeg'); */
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/pink-pastel-wood-background-pink-pastel-color-wood-texture-background-110284841.jpeg'); */
-  /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/elegant-wood-planks-background-nicely-illuminated-spotlights-to-draw-attention-63018708.jpeg'); */
-  background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
+  /* background-image: url('./images/pink-pastel-wood-background-pink-pastel-color-wood-texture-background-110284841.jpeg'); */
+  /* background-image: url('./images/elegant-wood-planks-background-nicely-illuminated-spotlights-to-draw-attention-63018708.jpeg'); */
+  background-image: url('./images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
   background-attachment: fixed;
   /* background-size: cover; */
   /* background-position: top center; */
@@ -1093,18 +1094,18 @@ body {
 
   .invitation-section {
     background-color: white !important;
-    background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/sheer-window-curtains-white-gold-vintage-wallpaper.jpg.jpg');
+    background-image: url('./images/sheer-window-curtains-white-gold-vintage-wallpaper.jpg.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
   }
   .content-container {
     /* background-image: url('../src/images/invite-bg4.jpg'); */
-    /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/istockphoto-1076470772-170667a.jpeg'); */
-    /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/49bed6191466e33c3652b73dc1fe5133.jpeg'); */
+    /* background-image: url('./images/istockphoto-1076470772-170667a.jpeg'); */
+    /* background-image: url('./images/49bed6191466e33c3652b73dc1fe5133.jpeg'); */
     /* background-image: url('https://previews.123rf.com/images/lianella/lianella1404/lianella140400033/27424893-vector-seamless-pattern-for-wedding-invitation-or-vintage-background.jpg'); */
     /* background-image: url('https://previews.123rf.com/images/elvil/elvil1403/elvil140300024/26374157-bright-wedding-vintage-wallpaper-background.jpg'); */
-    /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/sheer-window-curtains-white-gold-vintage-wallpaper.jpg.jpg'); */
+    /* background-image: url('./images/sheer-window-curtains-white-gold-vintage-wallpaper.jpg.jpg'); */
     background-image: none !important;
     background-color: transparent !important;
     /* background-position: center;
@@ -1125,7 +1126,7 @@ body {
   }
 
   .introduction-section {
-    /* background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/2ec7b332fd6ad908ff4933fa4a8ac04c.jpeg');
+    /* background-image: url('./images/2ec7b332fd6ad908ff4933fa4a8ac04c.jpeg');
     background-size: contain;
     background-repeat: repeat-y; */
   }
@@ -1192,7 +1193,7 @@ body {
   }
 
   .friends-section {
-    background-image: url('/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
+    background-image: url('./images/15130b7c6419da0f4f2bc281a8dc4b9e.jpg');
   }
 
   /* .friends-section .sub-heading {

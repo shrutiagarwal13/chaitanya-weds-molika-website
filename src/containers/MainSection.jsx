@@ -1,7 +1,7 @@
 import React from 'react';
 import CountdownContainer from './CountdownContainer';
 // import CouplePic from '../images/Couple-Laughing-Together.jpeg';
-import MainTitleName from '/Users/shruti/Desktop/Web Development/wedding-invitation/src/images/text-1633725554538.png';
+import MainTitleName from '../images/text-1633725554538.png';
 import ChaitanyaName from '../images/chaitanya2.png';
 import PragyaName from '../images/pragya2.png';
 import AndName from '../images/and2.png';
