@@ -294,7 +294,7 @@ Many congratulations Pragya!! </p>
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={20000}
+                  interval={25000}
                   fade
                 >
                   <Carousel.Item>
@@ -409,7 +409,7 @@ Many congratulations Pragya!! </p>
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={10000}
+                  interval={25000}
                   fade
                   // vertical
                 >

@@ -223,7 +223,7 @@ Lekin Aatank bahut hai...😂😂😂 </p>
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={20000}
+                  interval={25000}
                   fade
                   // vertical
                 >
@@ -331,7 +331,7 @@ Lekin Aatank bahut hai...😂😂😂 </p>
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={10000}
+                  interval={25000}
                   fade
                 >
                   <Carousel.Item>
