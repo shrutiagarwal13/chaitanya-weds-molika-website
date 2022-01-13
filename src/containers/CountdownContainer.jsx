@@ -33,7 +33,7 @@ const CountdownContainer = () => {
     // <Col md={1}> </Col>
     // <Col md={12}>
     <div className='countdown-container'>
-      <Countdown date='2021-12-06T20:00:00' renderer={renderer} />
+      <Countdown date='2022-02-20T20:00:00' renderer={renderer} />
     </div>
     //     {/* </Col> */}
     //     {/* <Col md={1}> </Col> */}

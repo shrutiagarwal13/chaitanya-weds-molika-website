@@ -3,7 +3,7 @@ import CountdownContainer from './CountdownContainer';
 // import CouplePic from '../images/Couple-Laughing-Together.jpeg';
 import MainTitleName from '../images/text-1633725554538.png';
 import ChaitanyaName from '../images/chaitanya2.png';
-import PragyaName from '../images/pragya2.png';
+import MolikaName from '../images/dummy-image.jpeg';
 import AndName from '../images/and2.png';
 
 import { useMediaQuery } from '../components/useMediaQuery';
@@ -15,7 +15,7 @@ const MainSection = () => {
     <div className='main-section'>
       <section className='main-section'>
         <div className='layer'>
-          {/* <div className='main-title'>Pragya & Chaitanya</div> */}
+          {/* <div className='main-title'>Molika & Chaitanya</div> */}
           {!isMobile && (
             <img src={MainTitleName} alt='' className='main-names-img' />
           )}
@@ -30,7 +30,7 @@ const MainSection = () => {
                 className='mobile-title-img and-img main-names-img'
               />
               <br />
-              <img src={PragyaName} alt='' className='main-names-img' />
+              <img src={MolikaName} alt='' className='main-names-img' />
             </div>
           )}
 

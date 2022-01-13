@@ -12,7 +12,7 @@ const HashtagSection = () => {
   return (
     <section className='hashtag-section'>
       <div className='hashtag'>
-        Share Love at #ChaiToGya
+        Share Love at #BrewingMoCha
         {/* <span> */}
         {/* <FontAwesomeIcon icon={faInstagram} className='ml-4 insta-icon' />
         </span> */}

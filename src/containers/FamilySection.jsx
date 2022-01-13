@@ -4,12 +4,10 @@ import { Container, Row, Col, Carousel } from 'react-bootstrap';
 import SpeechBubble from '../components/SpeechBubble.jsx';
 import ParentsSpeechBubble from '../components/ParentsSpeechBubble.jsx';
 
-import PragyaParentsPic from '../images/family/pragya_parents.jpg';
+import MolikaParentsPic from '../images/family/molika-parents.jpg';
 import ChaitanyaParentsPic from '../images/family/chaitanya_parents.jpg';
-import pragyaBrotherPic from '../images/family/pragya_brother.jpeg';
-import ShubhiHarshitPic from '../images/family/shubhi_harshit.jpeg';
-import ShreshthSweetyPic from '../images/family/shreshth_sweety.jpg';
-import ManishKritiPic from '../images/family/manish_kriti.jpeg';
+import MolikaBrotherPic from '../images/family/animesh.jpg';
+
 import PranetaPic from '../images/family/praneta1.jpeg';
 import VikramPic from '../images/family/vikram1.jpeg';
 
@@ -20,69 +18,48 @@ import VasuPic from '../images/family/vasu.jpg';
 import VinniPic from '../images/family/vinni.jpg';
 import ShrutiShreshthaPic from '../images/family/shruti_shreshtha.jpeg';
 
-import SonalPic from '../images/family/sonal.jpg';
-import PriyankaPic from '../images/family/priyanka.jpg';
-import AbhinavPic from '../images/family/abhinav.jpeg';
-import AarohiPic from '../images/family/aarohi.jpeg';
-import ShikhaPic from '../images/family/shikha.jpeg';
-import KashviPic from '../images/family/kashvi.jpg';
-import RahulPic from '../images/family/rahul.jpg';
-import AnshulPic from '../images/family/anshul.jpeg';
+import VaibhavPic from '../images/family/vaibhav.jpg';
+import VatsalaPic from '../images/family/vatsala.jpeg';
+import RichaPic from '../images/family/richa.jpeg';
+// import AarohiPic from '../images/family/aarohi.jpeg';
+// import ShikhaPic from '../images/family/shikha.jpeg';
+// import KashviPic from '../images/family/kashvi.jpg';
+// import RahulPic from '../images/family/rahul.jpg';
+// import AnshulPic from '../images/family/anshul.jpeg';
 
 const FamilySection = () => {
-  let pragyaParentsMsg = `
+  let MolikaParentsMsg = `
 
 <div className='family-msg'>
-<p>"We are so happy about your wedding, although you'd remain our little princess always. May you have a wonderful life with your life partner. Our best wishes and prayers are always with you both. Wish you a never ending happy married life ahead. Congratulations on your wedding. </p>
-<p>With love and blessings, <br /> Mummy and Papa"</p>
+<p>"Always proud to be your parents Molika, It brings nothing but happiness to see you happy, on your wedding day. 
+How time flies, you’re a big girl now! we are so happy for you that you’ve found your special one in Chaitanya with whom you’d now complete your family! </p> <p>
+Congratulations to both of you, May this special day bring new sunshine of happiness, joy, and laughter into your life."</p>
 
 </div>`;
 
   let chaitanyaParentsMsg = `
 <div className='family-msg'>
-<p>Chaitanya beta is not only our only son but also the soul of our lives. His presence and intelligence makes our life so filled with love and respect. He is the kindest person and we are so proud of him from always. He thinks before talking, he smiles even if he is emotional, he cares for his sister dearly and respects all the elders like family. We are very happy that he found Pragya and we are so excited to welcome her in our lives! We pray and wish for their happiness and bright future and our blessings are always with them. </>
+<p>"Chaitanya beta is not only our only son but also the soul of our lives. His presence and intelligence makes our life so filled with love and respect. He is the kindest person and we are so proud of him from always. He thinks before talking, he smiles even if he is emotional, he cares for his sister dearly and respects all the elders like family. We are very happy that he found Molika and we are so excited to welcome her in our lives! We pray and wish for their happiness and bright future and our blessings are always with them." </p>
 </div>
 `;
 
-  let pragyaBrotherMsg = `
+  let MolikaBrotherMsg = `
 <div className='family-msg'>
 <p>
-"My sweet little princess has finally found her prince charming. Dear sis, as you begin your life together with your husband I want you to know that I am here for you if you ever need anything. You are important to me and I love you. You've enchanted us all with your smile my darling sis. I wish you both all the best for your future. Congratulations </p>
-<p>With love, <br>
-Bhaiya"</p>
+"My precious sister, <br />
+It will never be enough to say about all the good and bad times spent with you so far.
+so, Congratulations on your wedding day :*  <br />
+
+Dear sis, you're a fun gal,undoubtedly. But good for me, you're Chaitanya jiju's headache now :D  <br />
+From messes around the bathroom sink  <br />
+To always challenging me to think,  <br />
+I was raised with a tough sister,  <br />
+But now you are going to be happy with new mister!  <br />
+I've been your first call for 25 years, (sach mein!!) <br/> And been around to dry your tears.  <br />
+Jiju better treat you right and always stay true, <br /> Or he'll have me to answer to! (Sweet gesture!)  <br />
+So from all of us to dearest sister - have a wonderful life with my new brother! :)"</p>
 </>
 
-</div>
-`;
-
-  let shubhiHarshitMsg = `
-<div className='family-msg'>
-<p>
-"Dear Di Jiju, </p> <p>
-
-We wish you all the happiness in the world. May your love grow stronger each and every passing year. Loads of love today and beyond."
-</p>
-</div>
-`;
-
-  let shreshthSweetyMsg = `
-<div className='family-msg'>
-<p>
-"Dear Di Jiju </p>
-<p>Accept our sincere and warm wishes. 💃 🎉 <br />
-Wishing you both infinite love and boundless happiness forever. <br />
-Have a blissful conjugal life. 👩‍❤️‍💋‍👨 🤝 <br />
-We wish you both pop endless champagnes. 🥂  <br />
-Create the world you both aspire. 🌈  <br />
-Love, Live, Laugh graciously💕 "
-</p>
-</div>
-`;
-  let manishKirtiMsg = `
-<div className='family-msg'>
-<p>
-"Wishing Pragya and Chaitanya lifetime of love and happiness. We hope that all your dreams come true as you begin this new journey."
-</p>
 </div>
 `;
 
@@ -90,7 +67,7 @@ Love, Live, Laugh graciously💕 "
 <div className='family-msg'>
 
 <p>"Chaitanya, you are the best thing that could have happened to me just one year after I was born. Our fights as kids, our going to school together, playing basketball, watching cricket, all reminds me of such a happy and eventful childhood - all thanks to you. You know I love you dearly and there is nothing in this world that I won’t do for you. You are my pride and I feel so blessed to have you. </p>
-<p>Getting married is a big milestone and I am so happy that you have found that one person who will make it totally worthwhile for you. It’s very hard to find the person whom you want to spend your life with but Pragya makes it sound so easy and genuine. I promise you, I will protect and love her like i do to you and I am always on her side from now!😉  </p>
+<p>Getting married is a big milestone and I am so happy that you have found that one person who will make it totally worthwhile for you. It’s very hard to find the person whom you want to spend your life with but Molika makes it sound so easy and genuine. I promise you, I will protect and love her like i do to you and I am always on her side from now!😉  </p>
 <p>Can’t wait to dance, eat and do all crazy things in your wedding!! All the best brother, I love you ❤️ "</p>
 
 </div>
@@ -131,7 +108,7 @@ You correct me when I am wrong but the way you do, makes me inspired.😇 </p>
   let muditMsg = `
 
 <div className='family-msg'>
-<p>"Congrats Kaku bhaiya and Pragya bhabhi!❤️ Hope to meet an even better party person😛 ab to all the more reasons to celebrate❤️ Kaku bhaiya you have always been so fun to be with! You are always so supportive and inventive in solving our petty college issues🤪 Just stay the way you are!❤️ Wishing you both a very happy and exciting married life. Excited for the wedding!😍 </p>
+<p>"Congrats Kaku bhaiya and Molika bhabhi!❤️ Hope to meet an even better party person😛 ab to all the more reasons to celebrate❤️ Kaku bhaiya you have always been so fun to be with! You are always so supportive and inventive in solving our petty college issues🤪 Just stay the way you are!❤️ Wishing you both a very happy and exciting married life. Excited for the wedding!😍 </p>
 <p>All the best!🤩 "</p>
 
 </div>
@@ -144,9 +121,7 @@ You correct me when I am wrong but the way you do, makes me inspired.😇 </p>
 <p>"Congratulations Bhaiya and Bhabhii!!🤩 </p>
 <p>We have been waiting for this day and meeting our bhabhi for so long. The wait couldn’t have come to a better end!🥰 Bhaiya, you’ve always treated us like your real sisters, pampering us with all our demands. At every birthday, how you force us to choose a gift and transfer money 💰 ultimately has been troublesome! From us spending our summer vacations in Bareilly playing cricket to you taking us out for clubbing, it has been hell of a journey!</p>
 <p>We look forward to spending our vacations with the newly added member to our family. Bhabhi, so excited to partner up with you to make fun of bhaiya. Yes, you can count us to be on your side, always!😉 </p>
-<p> To the eldermost yet the coolest bhaiii and the eldermost yet the sweetest bhabhi, we wish you both the happiest married life. Cant keep calm for the most joyous celebrations!❤️ </p>
-
-<p>P.S. bhabhi, you are not allowed to call us ‘di’.💝 "</p>
+<p> To the eldermost yet the coolest bhaiii and the eldermost yet the sweetest bhabhi, we wish you both the happiest married life. Cant keep calm for the most joyous celebrations!❤️ " </p>
 
 </div>
 
@@ -178,83 +153,98 @@ You have been role model and torch bearer for all of your brothers.. </p>
 
 </div>
 `;
-
-  let sonalMsg = `
-<div className='family-msg'>
-<p>"Dear love birds,</p>
-
-<p>As you blend your lives together with each other, I want to wish you a married life full of romance,cuddles and lifetime of happiness..
-May everyday of your life hereafter hold wonderful shared experiences😍🥰 </p>
-<p>Wish you both togetherness always! </p>
-<p>With love 💕 "  </p>
-
-</div>
-
-`;
-
-  let priyankaMsg = `
-<div className='family-msg'>
-<p>"Congratulations on your wedding my sweetest sister. I wish you both all the happiness and smiles in the world. May you enjoy your married life to the fullest with the blessings of Almighty. Warm wishes to the best little sister… Happy Marriage to you." </p>
-
-</div>
-
-`;
-
-  let abhinavMsg = `
-<div className='family-msg'>
-
-<p>"A pretty woman and a handsome man, two bodies united into one beautiful soul. May the bond you share last forever and grow deeper day by day in the new chapter of life. </p>
-<p>Stay happy an be blessed!! </p>
-<p>With love," </p>
-</div>
-
-`;
-
-  let aarohiMsg = `
+  let vaibhavMsg = `
 <div className='family-msg'>
 <p>
-"You have pampered, we all three, since we are born. We'll never forget our funfilled late night talks with you bua. </p>
-<p>You look awesome too to us! </p>
-<p>About fufaji, eagerly waiting to play and enjoy with you. </p>
-<Best> We love you bua and fufaji!!😘 <br /> Best wishes!" </p>
-
-</div>
-
-`;
-
-  let shikhaMsg = `
-<div className='family-msg'>
-<p>"The Warmest congratulations to the newly weds. Wishing that you two have an amazing life ahead. First year of marriage is a blessing. It will get harder, but it doesn't mean that you won't cope with difficulties. Keep supporting each other and learn to compromise, and you'll stay together forever." </p>
-
-</div>
-`;
-
-  let rahulMsg = `
-<div className='family-msg'>
-
-<p>"Two beautiful hearts joining together with a promise of never letting go of each other. Our warm wishes of lifetime happiness, joy, and prosperity for Pragya and Chaitanya Ji... </p>
-<p>Congratulations! May God always guide you both to lead a married life full of love, compassion, and purity. May you both find true happiness in the prayers! </p>
-</div>
-`;
-
-  let kashviMsg = `
-<div className='family-msg'>
-<p>
-Wishing you and Mausaji a happy  Marital bliss... God bless you both and Good Luck as you both are entering in your new phase of life...
-</p>
-
-</div>
-`;
-
-  let anshulMsg = `
-<div className='family-msg'>
-<p>
-Many congratulations Pragya!! </p>
-<p>Wish you both happiness, love and joy as you embark on this new chapter of life!</p>
-<p>Lots of Love!!
+"Dear Molika and Chaitanya !  <br /> As u begin this new journey of life, your bhaiya and bhabhi , wish you both the best of health, love, happiness together... may the rollercoaster you guys are about to sit in give you zillions of moments to laugh and none otherwise... God bless and congratulations!! Kush raho "
 </p>
 </div>
 `;
+
+  let vatsalaMsg = `
+  <div className='family-msg'>
+  <p>"Dear jiju, <br />
+I must tell you that you’ll be truly blessed with the presence of Molika didi (read: bundle of joy) in your life. <br/>
+She will entertain you with all the fun mimicry, will give you the most sensible suggestions, will always be ready to explore new places with you but will also be very particular about even one pinch of extra salt in food :p <br />
+Now that you both are embarking on a new journey of your life, I wish it brings immense happiness, peace and beautiful adventures to experience. <br />
+Congratulations!!! <br />
+Lots of love <3 "  </p>
+
+  </div>
+
+  `;
+
+  let richaMsg = `
+  <div className='family-msg'>
+  <p>"Marriage bonds two people in body and mind, <br />
+An allows them to appreciate the miracles they find. <br />
+ Romance and compassion carry them along, <br />
+Respect and Acceptance makes the marriage strong, <br />  
+Imparting words and actions of love from deep inside, <br />
+Acknowledging each other while standing side by side. <br />
+Great Marriages are created by husbands and wives, <br />
+Eternally being grateful they are in each other lives. </p> 
+<p> Respect each other, Romance will follow"</p>
+
+  </div>
+
+  `;
+
+  //   let abhinavMsg = `
+  // <div className='family-msg'>
+
+  // <p>"A pretty woman and a handsome man, two bodies united into one beautiful soul. May the bond you share last forever and grow deeper day by day in the new chapter of life. </p>
+  // <p>Stay happy an be blessed!! </p>
+  // <p>With love," </p>
+  // </div>
+
+  // `;
+
+  //   let aarohiMsg = `
+  // <div className='family-msg'>
+  // <p>
+  // "You have pampered, we all three, since we are born. We'll never forget our funfilled late night talks with you bua. </p>
+  // <p>You look awesome too to us! </p>
+  // <p>About fufaji, eagerly waiting to play and enjoy with you. </p>
+  // <Best> We love you bua and fufaji!!😘 <br /> Best wishes!" </p>
+
+  // </div>
+
+  // `;
+
+  //   let shikhaMsg = `
+  // <div className='family-msg'>
+  // <p>"The Warmest congratulations to the newly weds. Wishing that you two have an amazing life ahead. First year of marriage is a blessing. It will get harder, but it doesn't mean that you won't cope with difficulties. Keep supporting each other and learn to compromise, and you'll stay together forever." </p>
+
+  // </div>
+  // `;
+
+  //   let rahulMsg = `
+  // <div className='family-msg'>
+
+  // <p>"Two beautiful hearts joining together with a promise of never letting go of each other. Our warm wishes of lifetime happiness, joy, and prosperity for Molika and Chaitanya Ji... </p>
+  // <p>Congratulations! May God always guide you both to lead a married life full of love, compassion, and purity. May you both find true happiness in the prayers! </p>
+  // </div>
+  // `;
+
+  //   let kashviMsg = `
+  // <div className='family-msg'>
+  // <p>
+  // Wishing you and Mausaji a happy  Marital bliss... God bless you both and Good Luck as you both are entering in your new phase of life...
+  // </p>
+
+  // </div>
+  // `;
+
+  //   let anshulMsg = `
+  // <div className='family-msg'>
+  // <p>
+  // Many congratulations Molika!! </p>
+  // <p>Wish you both happiness, love and joy as you embark on this new chapter of life!</p>
+  // <p>Lots of Love!!
+  // </p>
+  // </div>
+  // `;
 
   return (
     <section className='family-section'>
@@ -278,8 +268,8 @@ Many congratulations Pragya!! </p>
               </Col>
               <Col xs={12} sm={12} md={6}>
                 <ParentsSpeechBubble
-                  message={pragyaParentsMsg}
-                  pic={PragyaParentsPic}
+                  message={MolikaParentsMsg}
+                  pic={MolikaParentsPic}
                   name=''
                   relation="Brides's Parents"
                   customClass='parents-msg'
@@ -417,9 +407,9 @@ Many congratulations Pragya!! </p>
                     {/* <Row>
                         <Col > */}
                     <SpeechBubble
-                      message={pragyaBrotherMsg}
-                      pic={pragyaBrotherPic}
-                      name='Rishav'
+                      message={MolikaBrotherMsg}
+                      pic={MolikaBrotherPic}
+                      name='Animesh'
                       relation="Bride's Brother"
                       customClass='sibling-msg'
                       customPointerClass='bride-sibling-pointer'
@@ -429,10 +419,10 @@ Many congratulations Pragya!! </p>
                   </Carousel.Item>
                   <Carousel.Item>
                     <SpeechBubble
-                      message={aarohiMsg}
-                      pic={AarohiPic}
-                      name='Aarohi, Aradhya & Dhruv'
-                      relation="Bride's Nieces & Nephew"
+                      message={vaibhavMsg}
+                      pic={VaibhavPic}
+                      name='Vaibhav & Megha'
+                      relation="Bride's Cousins"
                       customClass='sibling-msg'
                       customPointerClass='bride-sibling-pointer'
                       imgOrder='order-md-2'
@@ -441,9 +431,9 @@ Many congratulations Pragya!! </p>
                   </Carousel.Item>
                   <Carousel.Item>
                     <SpeechBubble
-                      message={shreshthSweetyMsg}
-                      pic={ShreshthSweetyPic}
-                      name='Shreshth & Sweety'
+                      message={vatsalaMsg}
+                      pic={VatsalaPic}
+                      name='Vatsala'
                       relation="Bride's Cousin"
                       customClass='sibling-msg'
                       customPointerClass='bride-sibling-pointer'
@@ -451,11 +441,12 @@ Many congratulations Pragya!! </p>
                       msgOrder='order-md-1'
                     />
                   </Carousel.Item>
+
                   <Carousel.Item>
                     <SpeechBubble
-                      message={shubhiHarshitMsg}
-                      pic={ShubhiHarshitPic}
-                      name='Shubhi & Harshit'
+                      message={richaMsg}
+                      pic={RichaPic}
+                      name='Richa & Rajat Jindal'
                       relation="Bride's Cousin"
                       customClass='sibling-msg'
                       customPointerClass='bride-sibling-pointer'
@@ -463,6 +454,7 @@ Many congratulations Pragya!! </p>
                       msgOrder='order-md-1'
                     />
                   </Carousel.Item>
+                  {/*
                   <Carousel.Item>
                     <SpeechBubble
                       message={manishKirtiMsg}
@@ -558,7 +550,7 @@ Many congratulations Pragya!! </p>
                       imgOrder='order-md-2'
                       msgOrder='order-md-1'
                     />
-                  </Carousel.Item>
+                  </Carousel.Item> */}
                 </Carousel>
               </Col>
             </Row>

@@ -13,11 +13,12 @@ import PratikPic from '../images/friends/pratik.jpeg';
 import ChiragPic from '../images/friends/chirag.jpg';
 import JenishPic from '../images/friends/jenish.jpeg';
 import PriyaPic from '../images/friends/priya.jpeg';
-import DishiPic from '../images/friends/dishi.jpeg';
-import AaziaPic from '../images/friends/aazia.jpg';
-import ArunimaPic from '../images/friends/arunima.jpg';
-import SrishtiPic from '../images/friends/srishti.jpeg';
-import ShubhiPic from '../images/friends/shubhi.jpeg';
+import ArshiPic from '../images/friends/arshi.jpg';
+import NishaPic from '../images/friends/nisha.jpg';
+import PradeepPic from '../images/friends/pradeep.jpg';
+import HarshitaPic from '../images/friends/harshita.jpg';
+import ApoorvaPic from '../images/friends/apoorva.jpeg';
+import RamyaPic from '../images/friends/ramya.jpeg';
 
 const FriendsSection1 = () => {
   let msgVikas = `<div class='friends-msg'>
@@ -49,12 +50,12 @@ are her biggest one. 😛😉 "
   let msgNAV = `
 <div class='friends-msg'>
   <p>
-  "Congratulations Chaitanya and Pragya ❤️ </p> <p> We are really happy for you both.. </p>
+  "Congratulations Chaitanya and Molika ❤️ </p> <p> We are really happy for you both.. </p>
   <p>
 Chaitanya you have this amazing quality to nurture and maitain all relationships which is truly inspiring for all of us..
 </p>
 <p>
-On behalf of the "Groom squad" I would like to tell you Pragya you are a very lucky girl because Chai is an amazingly adjusting, funny and cool guy! </p>
+On behalf of the "Groom squad" I would like to tell you Molika you are a very lucky girl because Chai is an amazingly adjusting, funny and cool guy! </p>
 <p>We wish you both a happy married life ❤️"</p>
 </div>`;
 
@@ -66,7 +67,7 @@ On behalf of the "Groom squad" I would like to tell you Pragya you are a very lu
   Finally  the much awaited wedding is here. We have been waiting for this from our first year though. 😂
   </p>
   <p>
-  Wish you a very happy married life ahead and all the best for your new beginning. You know we share a very special bond and I know each and every thing about you. So pragya can contact me for the grocery shopping to random shoes to clothes shopping. Excited for the wedding day. 😍 " </p>
+  Wish you a very happy married life ahead and all the best for your new beginning. You know we share a very special bond and I know each and every thing about you. So Molika can contact me for the grocery shopping to random shoes to clothes shopping. Excited for the wedding day. 😍 " </p>
 </div>
 `;
 
@@ -79,8 +80,8 @@ If we begin writing about you there will be endless things to write about, your 
 
   let msgArjun = `
 <div class='friends-msg'>
-<p> "Chintu and Pragya, many congratulations! 🎉 </p>
-<p> Pragya I am giving a piece of my heart with Chai 😉 .... Chai we have seen fun, togetherness, late night hang-outs and what not.... I love you for all the happiness and support we had all these year's for eachother. Wish you infinite happiness in this new venture of Life. Our bachelorhood will be missed. 🤪🍻 </p>
+<p> "Chintu and Molika, many congratulations! 🎉 </p>
+<p> Molika I am giving a piece of my heart with Chai 😉 .... Chai we have seen fun, togetherness, late night hang-outs and what not.... I love you for all the happiness and support we had all these year's for eachother. Wish you infinite happiness in this new venture of Life. Our bachelorhood will be missed. 🤪🍻 </p>
 <p> Lots of love to both of you!" </p>
 </div>
 `;
@@ -94,7 +95,7 @@ If we begin writing about you there will be endless things to write about, your 
 
   let msgPratik = `
 <div class='friends-msg'>
-<p> "Chaitanya and Pragya </p>
+<p> "Chaitanya and Molika </p>
 
 <p>A big congratulations on your conjugality. </p>
 
@@ -131,7 +132,7 @@ Shirpur days, thumps up and lays, the exam hall… i mean i cant even write ever
 Congratulations Bhai!! You have finally found that one person you get to annoy all through your life.  </p>
 <p>Here's to a lifetime full of happiness and love. Cheers 🥂 <br />
 Thanks for inviting us to eat and drink while you get married 😆 </p>
-<p>And, Pragya welcome to the crazy Fnatic family!! </p>
+<p>And, Molika welcome to the crazy Fnatic family!! </p>
 </p>
 
 
@@ -139,60 +140,51 @@ Thanks for inviting us to eat and drink while you get married 😆 </p>
 
 `;
 
-  let msgDishi = `
+  let msgArshi = `
 <div class = 'friends-msg'>
-<p>"A beautiful soul with golden
-heart. You are amazing and
-Definitely my sweetheart,
-Prags has not been just my
-friend but a true mirror. </p>
-<p> I love you always. My best wishes and
-blessings are with you." </p>
+<p>"I can’t believe someone is finally marrying you. With all your tantrums and bad jokes, may God help Chaitanya. 
+I just hope that Chaitanya has the same amount of patience as I have had. </p>
+<p>
+Well the upside to your wedding is that now you have someone else who you can irritate when you are bored. HaHa congratulations to both of us!!!" 
+</p>
 </div>
 `;
 
-  let msgAazia = `
+  let msgHarshita = `
 <div class='friends-msg'>
-<p>"Welcome to the dangerous world of
-Married life! It's too late to repent!
-(Jokes apart) </p>
-<p>Wishing you a Great Day with
-Wonderful Memories that will last
-Forever. </p>
-</p>May your Love towards Each Other
-only Grow Eachday. God bless! </p>
-<p>With Prayers and Love" </p>
+<p>"Pat on my back, for tolerating this crazy human for such a long time. <br />
+She’s a complete package full of energy and life.  <br />
+Dances with all her heart , head and hair out.  <br />
+Workout sessions for her are like do or die challenges.  <br />
+Office work for her is incomplete if she doesn’t crib about it .  <br />
+She’s too bad at cracking jokes, but too good at laughing on the same.  <br />
+In short, she’s ‘Ko-Molika’😉 ( All my wishes and prayers for you , Chaitanya 😜)  <p />
+
+<p>Molika, my retard friend, I am really happy that you have found your person you want to annoy for the rest of your life and be happy about it. Congratulations and Lots of love to you guys ❤️" </p>
 </div>`;
 
-  let msgArunima = `
+  let msgNisha = `
 <div class='friends-msg'>
-<p> "I'm so happy that I finally have a
-chance to see my friend getting
-married! You deserve to be loved and
-appreciated, and I'm so happy that
-you found someone who is perfect
-for you. </p> <p>Congratulations!"</p></div>`;
+<p> "Hey Molika , Knowing you for such a long time is a blessing and I cannot think of two people who are more deserving of true love, happiness and a lifetime of both❤️. Cheers on your wedding, you are a great friend to know and I am sure that Chaitanya is going to keep you smiling , happy and cheerful all your life . 
+I wish for you both a beautiful fairytale to live. <br />
+Love you ❤️ "</p></div>`;
 
-  let msgSrishti = `
+  let msgPradeep = `
 <div class='friends-msg'>
-<p>"Hey Pragya,</p>
-<p>You're the Most Sweetest and The
-Cute Girl I have ever met & I Mean It! 
-Simple and Kind Hearted. </p>
-</p> I will miss You a Lot. </p>
-</p> I am Gonna Come to Your Place and
-Will Tease you after Marriage for
-Sure. </p>
-</p> Guddddddu:)) </p>
-</p> I Love You My Beautiful <3" </p>
+<p>"Molu as she is popularly known among all her friends is like a four-leaf clover; hard to find and lucky to have.  I am glad we have been the best of friends. Even though she ignores all my calls 😋 I knew she is always there when you need her - Very genuine, caring and true from heart. Now that you will be soon married to Chaitanya and both of you are going to become two peas in a pod. May the butter of love melt all around you and the salt of happiness sprinkle over you. Happy Wedding!!" </p>
 </div>`;
 
-  let msgShubhi = `
+  let msgApoorva = `
 <div class='friends-msg'>
-<p>"Shadishuda zindagi, kashmir jesi hai.... <br />
- Khoobsurat to hai, <br />
-Lekin Aatank bahut hai...😂😂😂 </p>
-<p>So all the best for thrilling and adventurous life ahead...."</p>
+<p>"We first met at college, became friends and I knew it's gonna be lifetime deal with person like you Mola. <br />
+Just know you are a great person with pure soul. I Love you ❤️ and Let your mister know that you are mine before his .okay?? Molika & Chaitanya, Two special people, one amazing love!  Dear friends, enjoy your love that grows with every single day and knows no ending. the most heart congratulations on your wedding day!"</p>
+</div>
+`;
+
+  let msgRamya = `
+<div class='friends-msg'>
+<p><br />"Chaitanya, Congratulations!! <br/>
+Creative, Talkative, Bold, Beautiful, full of energy , witty dialogues that can make anyone laugh anddd knows to cook!  that's the deal you've got !!!"</p>
 </div>
 `;
 
@@ -336,42 +328,50 @@ Lekin Aatank bahut hai...😂😂😂 </p>
                 >
                   <Carousel.Item>
                     <FriendsCard
-                      pic={DishiPic}
-                      name='Dishi Paul'
+                      pic={ArshiPic}
+                      name='Arshi'
                       //   intro="Chaitanya's Friend"
-                      message={msgDishi}
+                      message={msgArshi}
                     />
                   </Carousel.Item>
                   <Carousel.Item>
                     <FriendsCard
-                      pic={SrishtiPic}
-                      name='Srishti Singh'
+                      pic={HarshitaPic}
+                      name='Harshita'
                       //   intro="Chaitanya's Friend"
-                      message={msgSrishti}
+                      message={msgHarshita}
                     />
                   </Carousel.Item>
                   <Carousel.Item>
                     <FriendsCard
-                      pic={ArunimaPic}
-                      name='Arunima'
+                      pic={NishaPic}
+                      name='Nisha'
                       //   intro="Chaitanya's Friend"
-                      message={msgArunima}
+                      message={msgNisha}
                     />
                   </Carousel.Item>
                   <Carousel.Item>
                     <FriendsCard
-                      pic={AaziaPic}
-                      name='Aazia & Shafeek'
+                      pic={PradeepPic}
+                      name='Pradeep'
                       //   intro="Chaitanya's Friend"
-                      message={msgAazia}
+                      message={msgPradeep}
                     />
                   </Carousel.Item>
                   <Carousel.Item>
                     <FriendsCard
-                      pic={ShubhiPic}
-                      name='Shubhi Agrawal'
+                      pic={ApoorvaPic}
+                      name='Apoorva'
                       //   intro="Chaitanya's Friend"
-                      message={msgShubhi}
+                      message={msgApoorva}
+                    />
+                  </Carousel.Item>
+                  <Carousel.Item>
+                    <FriendsCard
+                      pic={RamyaPic}
+                      name='Ramya'
+                      //   intro="Chaitanya's Friend"
+                      message={msgRamya}
                     />
                   </Carousel.Item>
                 </Carousel>

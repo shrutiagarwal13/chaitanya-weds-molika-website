@@ -2,20 +2,37 @@ import React from 'react';
 // import GroomPic from '../images/groom-avatar.png';
 // import BridePic from '../images/bride-avatar.png';
 import ChaitanyaPic from '../images/chaitanya-pic.jpeg';
-import PragyaPic from '../images/pragya-pic.jpeg';
+import MolikaPic from '../images/molika-pic.jpg';
 import IntroCard from '../components/IntroCard';
 
 const IntroductionSection = () => {
   let chaitanyaDesc = `
   <div>
-  <p>Engineer- MBA by profession, travel enthusiast and sports lover by heart. I like meeting new people and gather different experiences. </p> <p>
-Couldn’t have asked for a better life partner than Pragya. Both of us being from completely different fields will make life even more exciting. In such a short span, she has shown that she is so caring and adjusting which is mesmerising. Looking forward to a better phase of life.</p></div>`;
+  <p>Engineer- MBA by profession, travel enthusiast and sports lover by heart. I like meeting new people and gather different experiences.  </p> <p>
+Couldn’t have asked for a better life partner than her who understands my jokes and sarcasm.😀 She knows when she needs to act maturely and can be childish at times, which is a rare quality. </p> <p> Looking forward to the next phase of fun and better life.</p></div>`;
 
-  let pragyaDesc = `
+  let MolikaDesc = `
 <div>
 <p>
-Microbiologist by profession, nature lover and enjoy watching movies in my leisure time. I like to travel and explore new places. </p>
-<p>Chaitanya, from the very first moment we met, I hoped it would be you, I've carried around the image of you in my heart my whole life. From this day onwards, you shall not walk alone. As I have given you my hand to hold, I give you my life to keep. I can't wait to celebrate our wedding day with you.
+Ek ladki hai deewaani si <br />
+Jo thodi hai sayani si <br />
+
+Aankho mei masti chehre pe muskaan, <br />
+Peshey se engineer hai, Molika uska naam. <br />
+Desi Indian khaane ka mijaaz hai rkhti, <br />
+Cooking mei bhi badi hai dilchaspi. <br />
+Apni neend ise hai badi pyaari, <br />
+Fitness ko lekar bhi kbhi kbhi ho jaati h baawri. <br />
+Har gaane pe kamar thirakti, paer nahi thakte iske, <br />
+Ghoomne ka plan banalo toh bags humesha ready rakhti. <br />
+Family and friends mein iski jaan hai basti, <br />
+Office ka kaam bhi khoob mann se karti. <br />
+Uski zindagi mein ek nayi subah aayi jab Ramji ne uski jodi Chaitanya ke saath banayi !!! <br />
+(to be continued...:)) <p/>
+
+<p>In Chaitanya, I have found the one my soul loves. <br />
+Thank you Chaitanya ! <br/>
+for choosing me to spend the rest of life with :)
 </p>
 </div>
 
@@ -38,9 +55,9 @@ Microbiologist by profession, nature lover and enjoy watching movies in my leisu
 
               <div className='col-md-6 col-sm-12'>
                 <IntroCard
-                  profilepic={PragyaPic}
-                  name='Pragya Lakshmi'
-                  description={pragyaDesc}
+                  profilepic={MolikaPic}
+                  name='Molika Garg'
+                  description={MolikaDesc}
                 />
               </div>
               {/* <div className='col-md-1 d-none d-md-block'></div> */}

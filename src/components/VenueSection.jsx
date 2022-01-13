@@ -10,14 +10,14 @@ import SangeetIcon from '../images/sangeet-icon1.png';
 
 const VenueSection = () => {
   let sangeetVenue = `
-  <div class='venue-name mb-2 mt-4'>Gala Galaxy</div>
-  <div>KK Hospital Rd, Rajendra Nagar, Bareilly, UP</div>
+  <div class='venue-name mb-2 mt-4'>Haveli Banquet & Resort</div>
+  <div>Fun City, Pilibhit Bypass Rd, Chhoti Vihar, Bareilly, Uttar Pradesh</div>
   `;
 
-  let weddingVenue = `
-  <div class='venue-name mb-2 mt-4'>Masumi Resort</div>
-  <p> Near Bada Bypass Overbridge, Pilibhit Road, Bareilly, UP</p>
-  `;
+  // let weddingVenue = `
+  // <div class='venue-name mb-2 mt-4'>Masumi Resort</div>
+  // <p> Near Bada Bypass Overbridge, Pilibhit Road, Bareilly, UP</p>
+  // `;
 
   return (
     <div>
@@ -43,10 +43,10 @@ const VenueSection = () => {
                   background={SangeetBG}
                   icon={SangeetIcon}
                   functionName='Sangeet & Ring Ceremony'
-                  date='Wednesday, 05/12/2021'
+                  date='Saturday, 19/02/2022'
                   time='7:00 PM onwards'
                   address={sangeetVenue}
-                  mapsLink='https://www.google.com/maps/place/Hotel+Gala+Galaxy/@28.3865047,79.4297257,17z/data=!3m1!4b1!4m8!3m7!1s0x39a006e487f9ea43:0x92624108c9d74b25!5m2!4m1!1i2!8m2!3d28.3865032!4d79.4319166'
+                  mapsLink='https://www.google.com/maps/place/OYO+24944+Haveli+Banquet+And+Resort/@28.4044578,79.4575176,17z/data=!3m1!4b1!4m8!3m7!1s0x39a0067d4c4a7dfb:0x9517d68883a5c0c2!5m2!4m1!1i2!8m2!3d28.4044578!4d79.4597063'
                   customClass='sangeet-function-name'
                 />
               </Col>
@@ -55,10 +55,10 @@ const VenueSection = () => {
                   background={WeddingBG}
                   icon={WeddingIcon}
                   functionName='The Wedding'
-                  date='Thursday, 06/12/2021'
-                  time='8:00PM onwards'
-                  address={weddingVenue}
-                  mapsLink='https://www.google.com/maps/place/Masumi+Farm+House+-+Best+Wedding+Venue+in+Bareilly/@28.4310737,79.4797722,15z/data=!4m2!3m1!1s0x0:0x11e112e225c81780?sa=X&ved=2ahUKEwiVuPnBhKfzAhWHcn0KHR7PCh4Q_BJ6BAhkEAU'
+                  date='Thursday, 20/02/2022'
+                  time='7:00PM onwards'
+                  address={sangeetVenue}
+                  mapsLink='https://www.google.com/maps/place/OYO+24944+Haveli+Banquet+And+Resort/@28.4044578,79.4575176,17z/data=!3m1!4b1!4m8!3m7!1s0x39a0067d4c4a7dfb:0x9517d68883a5c0c2!5m2!4m1!1i2!8m2!3d28.4044578!4d79.4597063'
                 />
               </Col>
               {/* <Col md={4} sm={12}>

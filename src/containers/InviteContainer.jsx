@@ -23,16 +23,16 @@ const InviteContainer = () => {
               </div>
               <div></div>
               <div className='invitation-names'>
-                Pragya <span>&</span> Chaitanya
+                Chaitanya <span>&</span> Molika
               </div>
               <div className='assisting-text'>on</div>
               <div className='invitation-date assisting-text'>
-                06 December 2021
+                20 Febrauary 2022
               </div>
               <div className='assisting-text'>7 PM onwards</div>
               <div className='assisting-text invitation-venue'>
-                Masumi Resort <br /> Near Bada Bypass Overbridge, Pilibhit Road,
-                Bareilly
+                Haveli Banquet And Resort <br /> Fun City, Pilibhit Bypass Rd,
+                Chhoti Vihar, Bareilly, Uttar Pradesh
               </div>
               {/* </div>
               </div> */}
