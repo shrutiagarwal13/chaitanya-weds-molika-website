@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chaitanya-weds-molika-website/static/css/main.a94575c1.chunk.css",
-    "main.js": "/chaitanya-weds-molika-website/static/js/main.6419ab54.chunk.js",
-    "main.js.map": "/chaitanya-weds-molika-website/static/js/main.6419ab54.chunk.js.map",
+    "main.css": "/chaitanya-weds-molika-website/static/css/main.e8a8c97e.chunk.css",
+    "main.js": "/chaitanya-weds-molika-website/static/js/main.b43e5ccd.chunk.js",
+    "main.js.map": "/chaitanya-weds-molika-website/static/js/main.b43e5ccd.chunk.js.map",
     "runtime-main.js": "/chaitanya-weds-molika-website/static/js/runtime-main.a67de002.js",
     "runtime-main.js.map": "/chaitanya-weds-molika-website/static/js/runtime-main.a67de002.js.map",
     "static/js/2.1afee276.chunk.js": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js",
     "static/js/2.1afee276.chunk.js.map": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js.map",
     "index.html": "/chaitanya-weds-molika-website/index.html",
-    "static/css/main.a94575c1.chunk.css.map": "/chaitanya-weds-molika-website/static/css/main.a94575c1.chunk.css.map",
+    "static/css/main.e8a8c97e.chunk.css.map": "/chaitanya-weds-molika-website/static/css/main.e8a8c97e.chunk.css.map",
     "static/js/2.1afee276.chunk.js.LICENSE.txt": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/chaitanya-weds-molika-website/static/media/venue-bg1.1f4f2dee.jpg",
+    "static/media/index1.css": "/chaitanya-weds-molika-website/static/media/venue-bg1.1f4f2dee.jpg",
     "static/media/adit.8e6ef4dc.jpeg": "/chaitanya-weds-molika-website/static/media/adit.8e6ef4dc.jpeg",
     "static/media/animesh.b5e05dbd.jpg": "/chaitanya-weds-molika-website/static/media/animesh.b5e05dbd.jpg",
     "static/media/apoorva.88625af4.jpeg": "/chaitanya-weds-molika-website/static/media/apoorva.88625af4.jpeg",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.a67de002.js",
     "static/js/2.1afee276.chunk.js",
-    "static/css/main.a94575c1.chunk.css",
-    "static/js/main.6419ab54.chunk.js"
+    "static/css/main.e8a8c97e.chunk.css",
+    "static/js/main.b43e5ccd.chunk.js"
   ]
 }
