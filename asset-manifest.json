@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/chaitanya-weds-molika-website/static/css/main.978dc1f5.chunk.css",
-    "main.js": "/chaitanya-weds-molika-website/static/js/main.185d584e.chunk.js",
-    "main.js.map": "/chaitanya-weds-molika-website/static/js/main.185d584e.chunk.js.map",
+    "main.css": "/chaitanya-weds-molika-website/static/css/main.d75367be.chunk.css",
+    "main.js": "/chaitanya-weds-molika-website/static/js/main.4860f50c.chunk.js",
+    "main.js.map": "/chaitanya-weds-molika-website/static/js/main.4860f50c.chunk.js.map",
     "runtime-main.js": "/chaitanya-weds-molika-website/static/js/runtime-main.a67de002.js",
     "runtime-main.js.map": "/chaitanya-weds-molika-website/static/js/runtime-main.a67de002.js.map",
     "static/js/2.1afee276.chunk.js": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js",
     "static/js/2.1afee276.chunk.js.map": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js.map",
     "index.html": "/chaitanya-weds-molika-website/index.html",
-    "static/css/main.978dc1f5.chunk.css.map": "/chaitanya-weds-molika-website/static/css/main.978dc1f5.chunk.css.map",
+    "static/css/main.d75367be.chunk.css.map": "/chaitanya-weds-molika-website/static/css/main.d75367be.chunk.css.map",
     "static/js/2.1afee276.chunk.js.LICENSE.txt": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js.LICENSE.txt",
     "static/media/index.css": "/chaitanya-weds-molika-website/static/media/venue-bg1.1f4f2dee.jpg",
-    "static/media/Cogs-Animation-1.b3596ddc.gif": "/chaitanya-weds-molika-website/static/media/Cogs-Animation-1.b3596ddc.gif",
     "static/media/adit.8e6ef4dc.jpeg": "/chaitanya-weds-molika-website/static/media/adit.8e6ef4dc.jpeg",
     "static/media/animesh.b5e05dbd.jpg": "/chaitanya-weds-molika-website/static/media/animesh.b5e05dbd.jpg",
     "static/media/apoorva.88625af4.jpeg": "/chaitanya-weds-molika-website/static/media/apoorva.88625af4.jpeg",
@@ -20,7 +19,7 @@
     "static/media/chaitanya-pic.227a4fd5.jpeg": "/chaitanya-weds-molika-website/static/media/chaitanya-pic.227a4fd5.jpeg",
     "static/media/chaitanya_parents.ff85dcda.jpg": "/chaitanya-weds-molika-website/static/media/chaitanya_parents.ff85dcda.jpg",
     "static/media/chirag.28fc41f7.jpg": "/chaitanya-weds-molika-website/static/media/chirag.28fc41f7.jpg",
-    "static/media/couple-vector-1.09094623.png": "/chaitanya-weds-molika-website/static/media/couple-vector-1.09094623.png",
+    "static/media/couple-vector-1-min.1a3aad88.png": "/chaitanya-weds-molika-website/static/media/couple-vector-1-min.1a3aad88.png",
     "static/media/harshita.d7734888.jpg": "/chaitanya-weds-molika-website/static/media/harshita.d7734888.jpg",
     "static/media/invite-pic.90540a8b.jpg": "/chaitanya-weds-molika-website/static/media/invite-pic.90540a8b.jpg",
     "static/media/jenish.c5770ca2.jpeg": "/chaitanya-weds-molika-website/static/media/jenish.c5770ca2.jpeg",
@@ -44,7 +43,7 @@
     "static/media/sangeet-icon1.40c417ad.png": "/chaitanya-weds-molika-website/static/media/sangeet-icon1.40c417ad.png",
     "static/media/shruti_shreshtha.ba3d6f08.jpeg": "/chaitanya-weds-molika-website/static/media/shruti_shreshtha.ba3d6f08.jpeg",
     "static/media/suyash.eb161657.jpeg": "/chaitanya-weds-molika-website/static/media/suyash.eb161657.jpeg",
-    "static/media/the-wedding-of.f11779cc.png": "/chaitanya-weds-molika-website/static/media/the-wedding-of.f11779cc.png",
+    "static/media/the-wedding-of-min.9d1a0962.png": "/chaitanya-weds-molika-website/static/media/the-wedding-of-min.9d1a0962.png",
     "static/media/vaibhav.65ac675b.jpg": "/chaitanya-weds-molika-website/static/media/vaibhav.65ac675b.jpg",
     "static/media/vasu.2296aeb9.jpg": "/chaitanya-weds-molika-website/static/media/vasu.2296aeb9.jpg",
     "static/media/vatsala.4533db30.jpeg": "/chaitanya-weds-molika-website/static/media/vatsala.4533db30.jpeg",
@@ -57,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.a67de002.js",
     "static/js/2.1afee276.chunk.js",
-    "static/css/main.978dc1f5.chunk.css",
-    "static/js/main.185d584e.chunk.js"
+    "static/css/main.d75367be.chunk.css",
+    "static/js/main.4860f50c.chunk.js"
   ]
 }
