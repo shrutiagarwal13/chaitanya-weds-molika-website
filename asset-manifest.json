@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chaitanya-weds-molika-website/static/css/main.d75367be.chunk.css",
-    "main.js": "/chaitanya-weds-molika-website/static/js/main.4860f50c.chunk.js",
-    "main.js.map": "/chaitanya-weds-molika-website/static/js/main.4860f50c.chunk.js.map",
+    "main.css": "/chaitanya-weds-molika-website/static/css/main.a94575c1.chunk.css",
+    "main.js": "/chaitanya-weds-molika-website/static/js/main.6419ab54.chunk.js",
+    "main.js.map": "/chaitanya-weds-molika-website/static/js/main.6419ab54.chunk.js.map",
     "runtime-main.js": "/chaitanya-weds-molika-website/static/js/runtime-main.a67de002.js",
     "runtime-main.js.map": "/chaitanya-weds-molika-website/static/js/runtime-main.a67de002.js.map",
     "static/js/2.1afee276.chunk.js": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js",
     "static/js/2.1afee276.chunk.js.map": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js.map",
     "index.html": "/chaitanya-weds-molika-website/index.html",
-    "static/css/main.d75367be.chunk.css.map": "/chaitanya-weds-molika-website/static/css/main.d75367be.chunk.css.map",
+    "static/css/main.a94575c1.chunk.css.map": "/chaitanya-weds-molika-website/static/css/main.a94575c1.chunk.css.map",
     "static/js/2.1afee276.chunk.js.LICENSE.txt": "/chaitanya-weds-molika-website/static/js/2.1afee276.chunk.js.LICENSE.txt",
     "static/media/index.css": "/chaitanya-weds-molika-website/static/media/venue-bg1.1f4f2dee.jpg",
     "static/media/adit.8e6ef4dc.jpeg": "/chaitanya-weds-molika-website/static/media/adit.8e6ef4dc.jpeg",
@@ -26,8 +26,8 @@
     "static/media/kanu.dca624b5.jpeg": "/chaitanya-weds-molika-website/static/media/kanu.dca624b5.jpeg",
     "static/media/lamp1.14fa6830.png": "/chaitanya-weds-molika-website/static/media/lamp1.14fa6830.png",
     "static/media/lamp2.87acc37e.png": "/chaitanya-weds-molika-website/static/media/lamp2.87acc37e.png",
-    "static/media/maulik.15e21029.jpg": "/chaitanya-weds-molika-website/static/media/maulik.15e21029.jpg",
-    "static/media/molika-parents.67de96d3.jpg": "/chaitanya-weds-molika-website/static/media/molika-parents.67de96d3.jpg",
+    "static/media/maulik.349e72a5.jpg": "/chaitanya-weds-molika-website/static/media/maulik.349e72a5.jpg",
+    "static/media/molika-parents.bd7ff9f1.jpg": "/chaitanya-weds-molika-website/static/media/molika-parents.bd7ff9f1.jpg",
     "static/media/molika-pic.ca505e9f.jpg": "/chaitanya-weds-molika-website/static/media/molika-pic.ca505e9f.jpg",
     "static/media/mudit.d49ca293.jpeg": "/chaitanya-weds-molika-website/static/media/mudit.d49ca293.jpeg",
     "static/media/nav.6be024f5.jpg": "/chaitanya-weds-molika-website/static/media/nav.6be024f5.jpg",
@@ -41,14 +41,14 @@
     "static/media/richa.4ea8317e.jpeg": "/chaitanya-weds-molika-website/static/media/richa.4ea8317e.jpeg",
     "static/media/sangeet-bg.98be1c93.jpg": "/chaitanya-weds-molika-website/static/media/sangeet-bg.98be1c93.jpg",
     "static/media/sangeet-icon1.40c417ad.png": "/chaitanya-weds-molika-website/static/media/sangeet-icon1.40c417ad.png",
-    "static/media/shruti_shreshtha.ba3d6f08.jpeg": "/chaitanya-weds-molika-website/static/media/shruti_shreshtha.ba3d6f08.jpeg",
+    "static/media/shruti_shreshtha.c9cf947b.jpg": "/chaitanya-weds-molika-website/static/media/shruti_shreshtha.c9cf947b.jpg",
     "static/media/suyash.eb161657.jpeg": "/chaitanya-weds-molika-website/static/media/suyash.eb161657.jpeg",
     "static/media/the-wedding-of-min.9d1a0962.png": "/chaitanya-weds-molika-website/static/media/the-wedding-of-min.9d1a0962.png",
     "static/media/vaibhav.65ac675b.jpg": "/chaitanya-weds-molika-website/static/media/vaibhav.65ac675b.jpg",
     "static/media/vasu.2296aeb9.jpg": "/chaitanya-weds-molika-website/static/media/vasu.2296aeb9.jpg",
     "static/media/vatsala.4533db30.jpeg": "/chaitanya-weds-molika-website/static/media/vatsala.4533db30.jpeg",
     "static/media/vikas.8de956da.jpg": "/chaitanya-weds-molika-website/static/media/vikas.8de956da.jpg",
-    "static/media/vikram1.5113fe64.jpeg": "/chaitanya-weds-molika-website/static/media/vikram1.5113fe64.jpeg",
+    "static/media/vikram1.a01042b3.jpg": "/chaitanya-weds-molika-website/static/media/vikram1.a01042b3.jpg",
     "static/media/vinni.1a59aab5.jpg": "/chaitanya-weds-molika-website/static/media/vinni.1a59aab5.jpg",
     "static/media/wedding-bg.dbf5a121.jpg": "/chaitanya-weds-molika-website/static/media/wedding-bg.dbf5a121.jpg",
     "static/media/wedding-icon1.a30d9b08.png": "/chaitanya-weds-molika-website/static/media/wedding-icon1.a30d9b08.png"
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.a67de002.js",
     "static/js/2.1afee276.chunk.js",
-    "static/css/main.d75367be.chunk.css",
-    "static/js/main.4860f50c.chunk.js"
+    "static/css/main.a94575c1.chunk.css",
+    "static/js/main.6419ab54.chunk.js"
   ]
 }
