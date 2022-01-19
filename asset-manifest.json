@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c93b7fc.chunk.css",
-    "main.js": "/static/js/main.46ef7de5.chunk.js",
-    "main.js.map": "/static/js/main.46ef7de5.chunk.js.map",
+    "main.css": "/static/css/main.23b93d69.chunk.css",
+    "main.js": "/static/js/main.941d5322.chunk.js",
+    "main.js.map": "/static/js/main.941d5322.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.824b76cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.824b76cf.js.map",
     "static/js/2.11bf7ffa.chunk.js": "/static/js/2.11bf7ffa.chunk.js",
     "static/js/2.11bf7ffa.chunk.js.map": "/static/js/2.11bf7ffa.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8c93b7fc.chunk.css.map": "/static/css/main.8c93b7fc.chunk.css.map",
+    "static/css/main.23b93d69.chunk.css.map": "/static/css/main.23b93d69.chunk.css.map",
     "static/js/2.11bf7ffa.chunk.js.LICENSE.txt": "/static/js/2.11bf7ffa.chunk.js.LICENSE.txt",
     "static/media/index1.css": "/static/media/venue-bg1.1f4f2dee.jpg",
+    "static/media/Chaitanya-Molika-Caricature-Couple.1d86f6d3.png": "/static/media/Chaitanya-Molika-Caricature-Couple.1d86f6d3.png",
     "static/media/adit.8e6ef4dc.jpeg": "/static/media/adit.8e6ef4dc.jpeg",
     "static/media/animesh.b5e05dbd.jpg": "/static/media/animesh.b5e05dbd.jpg",
     "static/media/apoorva.88625af4.jpeg": "/static/media/apoorva.88625af4.jpeg",
@@ -19,7 +20,6 @@
     "static/media/chaitanya-pic.227a4fd5.jpeg": "/static/media/chaitanya-pic.227a4fd5.jpeg",
     "static/media/chaitanya_parents.ff85dcda.jpg": "/static/media/chaitanya_parents.ff85dcda.jpg",
     "static/media/chirag.28fc41f7.jpg": "/static/media/chirag.28fc41f7.jpg",
-    "static/media/couple-vector-1-min.1a3aad88.png": "/static/media/couple-vector-1-min.1a3aad88.png",
     "static/media/harshita.d7734888.jpg": "/static/media/harshita.d7734888.jpg",
     "static/media/invite-pic.90540a8b.jpg": "/static/media/invite-pic.90540a8b.jpg",
     "static/media/jenish.c5770ca2.jpeg": "/static/media/jenish.c5770ca2.jpeg",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.824b76cf.js",
     "static/js/2.11bf7ffa.chunk.js",
-    "static/css/main.8c93b7fc.chunk.css",
-    "static/js/main.46ef7de5.chunk.js"
+    "static/css/main.23b93d69.chunk.css",
+    "static/js/main.941d5322.chunk.js"
   ]
 }
