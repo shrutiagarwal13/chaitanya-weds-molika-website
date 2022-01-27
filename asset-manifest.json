@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1f0cb3a.chunk.css",
-    "main.js": "/static/js/main.c1394e48.chunk.js",
-    "main.js.map": "/static/js/main.c1394e48.chunk.js.map",
+    "main.css": "/static/css/main.040d4f65.chunk.css",
+    "main.js": "/static/js/main.4d99f46b.chunk.js",
+    "main.js.map": "/static/js/main.4d99f46b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.824b76cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.824b76cf.js.map",
     "static/js/2.11bf7ffa.chunk.js": "/static/js/2.11bf7ffa.chunk.js",
     "static/js/2.11bf7ffa.chunk.js.map": "/static/js/2.11bf7ffa.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b1f0cb3a.chunk.css.map": "/static/css/main.b1f0cb3a.chunk.css.map",
+    "static/css/main.040d4f65.chunk.css.map": "/static/css/main.040d4f65.chunk.css.map",
     "static/js/2.11bf7ffa.chunk.js.LICENSE.txt": "/static/js/2.11bf7ffa.chunk.js.LICENSE.txt",
     "static/media/index1.css": "/static/media/venue-bg1.1f4f2dee.jpg",
     "static/media/Chaitanya-Molika-Caricature-Couple.1d86f6d3.png": "/static/media/Chaitanya-Molika-Caricature-Couple.1d86f6d3.png",
@@ -47,6 +47,7 @@
     "static/media/vaibhav.65ac675b.jpg": "/static/media/vaibhav.65ac675b.jpg",
     "static/media/vasu.2296aeb9.jpg": "/static/media/vasu.2296aeb9.jpg",
     "static/media/vatsala.4533db30.jpeg": "/static/media/vatsala.4533db30.jpeg",
+    "static/media/videoinvite.98bd8c8e.mp4": "/static/media/videoinvite.98bd8c8e.mp4",
     "static/media/vikas.8de956da.jpg": "/static/media/vikas.8de956da.jpg",
     "static/media/vikram1.a01042b3.jpg": "/static/media/vikram1.a01042b3.jpg",
     "static/media/vinni.1a59aab5.jpg": "/static/media/vinni.1a59aab5.jpg",
@@ -56,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.824b76cf.js",
     "static/js/2.11bf7ffa.chunk.js",
-    "static/css/main.b1f0cb3a.chunk.css",
-    "static/js/main.c1394e48.chunk.js"
+    "static/css/main.040d4f65.chunk.css",
+    "static/js/main.4d99f46b.chunk.js"
   ]
 }
