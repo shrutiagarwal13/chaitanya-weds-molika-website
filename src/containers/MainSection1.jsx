@@ -7,10 +7,10 @@ import CountdownContainer from './CountdownContainer';
 // import AndName from '../images/and2.png';
 
 import { useMediaQuery } from '../components/useMediaQuery';
-import CoupleVector from '../images/couple-vector-1.png';
+import CoupleVector from '../images/Chaitanya-Molika-Caricature-Couple.png';
 import { Container, Row, Col } from 'react-bootstrap';
 // import CircleType from 'circletype';
-import WeddingOfFontImage from '../images/the-wedding-of.png';
+import WeddingOfFontImage from '../images/the-wedding-of-min.png';
 
 const MainSection = () => {
   let isMobile = useMediaQuery('(max-width: 500px)');

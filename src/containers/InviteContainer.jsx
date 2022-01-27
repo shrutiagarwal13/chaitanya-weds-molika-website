@@ -31,8 +31,11 @@ const InviteContainer = () => {
               </div>
               <div className='assisting-text'>7 PM onwards</div>
               <div className='assisting-text invitation-venue'>
-                Haveli Banquet And Resort <br /> Fun City, Pilibhit Bypass Rd,
-                Chhoti Vihar, Bareilly, Uttar Pradesh
+                Haveli Banquet And Resort <br />
+                <span className='invitation-venue-details'>
+                  Fun City, Pilibhit Bypass Rd <br />
+                  Bareilly, Uttar Pradesh
+                </span>
               </div>
               {/* </div>
               </div> */}

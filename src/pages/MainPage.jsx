@@ -9,6 +9,7 @@ import RsvpSection from '../containers/RsvpSection';
 import party from 'party-js';
 import FamilySection from '../containers/FamilySection';
 import HashtagSection from '../containers/HashtagSection';
+// import VideoSection from '../containers/VideoSection';
 
 function MainPage() {
   useEffect(() => {
@@ -27,7 +28,9 @@ function MainPage() {
       {/* <ParentsSection /> */}
       <FamilySection />
       <FriendsSection1 />
+      {/* <VideoSection /> */}
       <VenueSection />
+
       <HashtagSection />
       <RsvpSection />
     </div>

@@ -1,7 +1,7 @@
 import './App.css';
 import MainPage from './pages/MainPage';
 import BrowserRouter from 'react-router-dom/BrowserRouter';
-import ErrorPage from './pages/ErrorPage';
+// import ErrorPage from './pages/ErrorPage';
 
 function App() {
   return (

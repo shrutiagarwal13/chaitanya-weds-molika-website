@@ -1,5 +1,7 @@
 import { React, useState } from 'react';
 import { Form, Button } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPaperPlane } from '@fortawesome/free-solid-svg-icons';
 
 const RsvpSection = () => {
   const [formData, setFormData] = useState({
@@ -215,6 +217,10 @@ const RsvpSection = () => {
               type='submit'
               //   onClick={handleClick}
             >
+              <FontAwesomeIcon
+                icon={faPaperPlane}
+                className='mr-2'
+              ></FontAwesomeIcon>
               Send
             </Button>
           </Form>

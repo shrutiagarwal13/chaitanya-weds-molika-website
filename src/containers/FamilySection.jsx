@@ -9,14 +9,14 @@ import ChaitanyaParentsPic from '../images/family/chaitanya_parents.jpg';
 import MolikaBrotherPic from '../images/family/animesh.jpg';
 
 import PranetaPic from '../images/family/praneta1.jpeg';
-import VikramPic from '../images/family/vikram1.jpeg';
+import VikramPic from '../images/family/vikram1.jpg';
 
 import AditPic from '../images/family/adit.jpeg';
 import MuditPic from '../images/family/mudit.jpeg';
 import KanuPic from '../images/family/kanu.jpeg';
 import VasuPic from '../images/family/vasu.jpg';
 import VinniPic from '../images/family/vinni.jpg';
-import ShrutiShreshthaPic from '../images/family/shruti_shreshtha.jpeg';
+import ShrutiShreshthaPic from '../images/family/shruti_shreshtha.jpg';
 
 import VaibhavPic from '../images/family/vaibhav.jpg';
 import VatsalaPic from '../images/family/vatsala.jpeg';
@@ -39,7 +39,7 @@ Congratulations to both of you, May this special day bring new sunshine of happi
 
   let chaitanyaParentsMsg = `
 <div className='family-msg'>
-<p>"Chaitanya beta is not only our only son but also the soul of our lives. His presence and intelligence makes our life so filled with love and respect. He is the kindest person and we are so proud of him from always. He thinks before talking, he smiles even if he is emotional, he cares for his sister dearly and respects all the elders like family. We are very happy that he found Molika and we are so excited to welcome her in our lives! We pray and wish for their happiness and bright future and our blessings are always with them." </p>
+<p>"Chaitanya beta is not only our only son but also the soul of our lives. His presence and intelligence makes our life so filled with love and respect. He is the kindest person and we are so proud of him since always. He thinks before talking, he smiles even if he is emotional, he cares for his sister dearly and respects all the elders like family. We are very happy that he found Molika and we are so excited to welcome her in our lives! We pray and wish for their happiness and bright future and our blessings are always with them." </p>
 </div>
 `;
 
@@ -118,15 +118,17 @@ You correct me when I am wrong but the way you do, makes me inspired.😇 </p>
   let shrutiShreshthaMsg = `
 <div className='family-msg'>
 
-<p>"Congratulations Bhaiya and Bhabhii!!🤩 </p>
-<p>We have been waiting for this day and meeting our bhabhi for so long. The wait couldn’t have come to a better end!🥰 Bhaiya, you’ve always treated us like your real sisters, pampering us with all our demands. At every birthday, how you force us to choose a gift and transfer money 💰 ultimately has been troublesome! From us spending our summer vacations in Bareilly playing cricket to you taking us out for clubbing, it has been hell of a journey!</p>
-<p>We look forward to spending our vacations with the newly added member to our family. Bhabhi, so excited to partner up with you to make fun of bhaiya. Yes, you can count us to be on your side, always!😉 </p>
-<p> To the eldermost yet the coolest bhaiii and the eldermost yet the sweetest bhabhi, we wish you both the happiest married life. Cant keep calm for the most joyous celebrations!❤️ " </p>
+<p>"Congratulations Bhaiya and Bhabhii!!🥳</p>
+<p>We have been waiting to meet our bhabhi for so long. The wait couldn’t have come to a better end!🥰 Bhaiya, from always having our back to pampering us, you have been no less than a real brother. From us spending our summer vacations in Bareilly playing cricket to you taking us out for clubbing, it has been hell of a journey!</p>
+<p>We look forward to enjoying our vacations with the newly added member of our family. Bhabhi, so excited to partner up with you. Yes, you can count on us to be on your side, always!😉 </p>
+<p> To the eldermost yet the coolest bhaiii and bhabhi, we wish you both the happiest married life. Can't keep calm for the most joyous celebrations!❤️ " </p>
 
 </div>
 
 `;
 
+  // On every occasion, you have been real trouble for forcing us to choose a gift and eventually sending a fortune
+  // Bhaiya, you've always treated us like your real sisters and pampered us with all our demands.
   let kanuMsg = `
 <div className='family-msg'>
 <p>
@@ -284,10 +286,10 @@ Eternally being grateful they are in each other lives. </p>
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={25000}
+                  interval={30000}
                   fade
                 >
-                  <Carousel.Item>
+                  <Carousel.Item interval={210000}>
                     {/* <Row>
                         <Col > */}
                     <SpeechBubble
@@ -399,11 +401,11 @@ Eternally being grateful they are in each other lives. </p>
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={25000}
+                  interval={30000}
                   fade
                   // vertical
                 >
-                  <Carousel.Item>
+                  <Carousel.Item interval={210000}>
                     {/* <Row>
                         <Col > */}
                     <SpeechBubble

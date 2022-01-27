@@ -1,6 +1,8 @@
 import React from 'react';
 import InviteContainer from './InviteContainer';
 // import party from 'party-js';
+import Video from '../images/videoinvite.mp4';
+import VideoPoster from '../images/video-poster.jpg';
 
 const InvitationSection = () => {
   return (
@@ -11,6 +13,18 @@ const InvitationSection = () => {
         className='invitation-poster'
       /> */}
       <InviteContainer dataAos='fade-up' />
+      <div>
+        <video
+          width='95%'
+          controls
+          autoPlay
+          className='video-invitation'
+          poster={VideoPoster}
+          playsInline
+        >
+          <source src={Video} type='video/mp4'></source>
+        </video>
+      </div>
     </section>
   );
 };

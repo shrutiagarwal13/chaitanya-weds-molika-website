@@ -52,7 +52,7 @@ are her biggest one. 😛😉 "
   <p>
   "Congratulations Chaitanya and Molika ❤️ </p> <p> We are really happy for you both.. </p>
   <p>
-Chaitanya you have this amazing quality to nurture and maitain all relationships which is truly inspiring for all of us..
+Chaitanya you have this amazing quality to nurture and maintain all relationships which is truly inspiring for all of us..
 </p>
 <p>
 On behalf of the "Groom squad" I would like to tell you Molika you are a very lucky girl because Chai is an amazingly adjusting, funny and cool guy! </p>
@@ -117,7 +117,7 @@ If we begin writing about you there will be endless things to write about, your 
 <div class='friends-msg'>
 <p>Dear Chintu, I think of you and my mind immediately goes back to a hundred thousand stupid, nonsensical moments we have spent together. Like .. I cant seem to track any logic in these memories but my heart feels so full. I can only remember what FUN we had, how hard we danced, how much we ate, how much we bunked and just chilled… </p>
 <p>Those deep moments when all of us sat on marine drive ( we thought you were reflecting on life and you were actually counting there are 108 street lights there 😛)  or walking along the beach and landing up on Devdas street subway…
-Shirpur days, thumps up and lays, the exam hall… i mean i cant even write everything down here… because in all true sense we just grew up together and got mature together ( aise he keh rahe hoon tera confirm nai hae matlab) But all and all you have been such a great friend.. A friend kne can count on , a friend who supports jo matter what.. </p>
+Shirpur days, thumps up and lays, the exam hall… i mean i cant even write everything down here… because in all true sense we just grew up together and got mature together ( aise he keh rahe hoon tera confirm nai hae matlab) But all and all you have been such a great friend.. A friend one can count on , a friend who supports no matter what.. </p>
 <p>You are one of the few souls who have managed to remain innocent and I cherish that about you. </p>
 <p>I hope this next chapter of your life is filled with more joy, more love and many more great memories. </p>
 
@@ -215,11 +215,11 @@ Creative, Talkative, Bold, Beautiful, full of energy , witty dialogues that can 
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={25000}
+                  interval={30000}
                   fade
                   // vertical
                 >
-                  <Carousel.Item>
+                  <Carousel.Item interval={300000}>
                     <FriendsCard
                       pic={MaulikPic}
                       name='Maulik'
@@ -246,6 +246,7 @@ Creative, Talkative, Bold, Beautiful, full of energy , witty dialogues that can 
                       charLength={300}
                     />
                   </Carousel.Item>
+
                   <Carousel.Item>
                     <FriendsCard
                       pic={JenishPic}
@@ -323,10 +324,10 @@ Creative, Talkative, Bold, Beautiful, full of energy , witty dialogues that can 
                   controls={false}
                   nextLabel=''
                   prevLabel=''
-                  interval={25000}
+                  interval={30000}
                   fade
                 >
-                  <Carousel.Item>
+                  <Carousel.Item interval={300000}>
                     <FriendsCard
                       pic={ArshiPic}
                       name='Arshi'

@@ -3,11 +3,6 @@
   src: url(./fonts/chopin-script.regular.ttf);
 }
 
-/* @font-face {
-  font-family: Calligraphy;
-  src: url(./fonts/Bold\ &\ Stylish\ Calligraphy.ttf);
-} */
-
 @font-face {
   font-family: Cassandra;
   src: url(./fonts/cassandra-personal-use.regular.ttf);
@@ -22,16 +17,9 @@
   font-family: Kavo;
   src: url(./fonts/kavo-serif.regular.otf);
 }
-/* @font-face {
-  font-family: RomeoJuliet;
-  src: url(./fonts/RomeoJulietPersonalUse-BWpqw.otf);
-} */
 
 @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@700&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700;900&display=swap'); */
 
 body {
   margin: 0 !important;
@@ -43,14 +31,13 @@ body {
   /* height: 100vh; */
 }
 
-.error-page {
+/* .error-page {
   background-color: #f4f9fe;
   height: 100vh;
   padding: 20%;
 }
 
 .error-page img {
-  /* height: 100%; */
   max-width: 100%;
   width: 100%;
 }
@@ -61,15 +48,13 @@ body {
   font-family: 'Montserrat';
   position: relative;
   top: 50px;
-}
+} */
 
 html,
 body {
   height: 100%;
   position: relative;
 }
-
-/* .vsc-in/ */
 
 #root {
   min-height: inherit !important;
@@ -78,31 +63,6 @@ body {
 .App {
   min-height: 100% !important;
 }
-
-/* code {
-
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
-
-/* .main-image {
-  height: 100vh;
-  min-width: 100vw;
-} */
-
-/* --------- COMMON ----------------- */
-
-/* body { */
-/* min-height: ; */
-/* min-height: -webkit-fill-available; */
-/* } */
-/* html {
-  height: -webkit-fill-available;
-} */
-
-/* .alternate-section-1 {
-  background-color: #f8f8ee;
-} */
 
 .section-heading {
   font-family: Chopin, cursive;
@@ -136,12 +96,12 @@ body {
 .main-section {
   /* background-image: url('https://i.pinimg.com/564x/2e/67/ff/2e67ff83f35d13c1ef0922c07c129338.jpg'); */
   /* background-image: url('https://i.pinimg.com/564x/5e/6e/6a/5e6e6a88154364136545cc5d91b7986f.jpg'); */
-  background-image: url('/Users/shruti/Desktop/Web Development/chaitanya-weds-molika-wedding-invite/src/images/5e6e6a88154364136545cc5d91b7986f.jpeg');
+  background-image: url('./images/main-section.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-position: top center;
-  background-color: #ee8a3b;
+  /* background-color: #ee8a3b; */
   height: 100vh;
 }
 
@@ -1064,17 +1024,16 @@ body {
 /* ------------- MEDIA QUERIES ----------------------- */
 
 @media screen and (max-width: 450px) {
-  .main-section {
-    /* background-image: url('./images/main-section-bg-mobile3.jpg'); */
-    background-image: url('./images/Kage-Thin.png');
+  /* .main-section {
+    background-image: url('./images/Kage-Thin.jpg');
     background-position: center bottom !important;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+  } */
 
-  .layer {
+  /* .layer {
     background-color: rgba(104, 101, 101, 0.45);
-  }
+  } */
 
   .main-title {
     font-size: 4rem;
@@ -1146,7 +1105,7 @@ body {
 @media screen and (max-width: 500px) {
   .main-section {
     /* background-image: url('./images/main-section-bg-mobile3.jpg'); */
-    background-image: url('./images/Kage-Thin.png');
+    background-image: url('./images/Chaitanya-Molika-Caricature.jpg');
     background-position: center center !important;
     background-repeat: no-repeat;
     background-size: cover;

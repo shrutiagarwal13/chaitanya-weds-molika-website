@@ -8,8 +8,11 @@ import IntroCard from '../components/IntroCard';
 const IntroductionSection = () => {
   let chaitanyaDesc = `
   <div>
-  <p>Engineer- MBA by profession, travel enthusiast and sports lover by heart. I like meeting new people and gather different experiences.  </p> <p>
-Couldn’t have asked for a better life partner than her who understands my jokes and sarcasm.😀 She knows when she needs to act maturely and can be childish at times, which is a rare quality. </p> <p> Looking forward to the next phase of fun and better life.</p></div>`;
+  <p>Engineer- MBA by profession, travel enthusiast and sports lover by heart. My parents are simple, down to earth and humble and that’s the quality that they have passed on to me as well. I have an elder sister whom I adore. I am the eldest brother of many siblings whom I love the most. I was born and brought up in a joint family where our day consisted of laughter and cricket with my brothers and sister, watching news and advises from papa and chachus, care and yummy food from mummy and chachis and last but not the least - life lessons and mythology stories from my grandparents. I have always been a family person and that has made me both a very social and adjusting man. I love travelling to enjoy different culture, meet new people and gather different experiences. </p>
+
+<p>Molika is smart, beautiful, mature and most importantly- she understands me (atleast she tries :P). We talk for hours and we still feel it’s less. </p>
+<p>Couldn’t have asked for a better life partner who understands my jokes and sarcasm 😀. She knows when she needs to act maturely and can be childish at times, which is fun. </p>
+Looking forward to the next phase of life with her.</p></div>`;
 
   let MolikaDesc = `
 <div>
