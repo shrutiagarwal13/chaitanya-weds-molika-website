@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.040d4f65.chunk.css",
-    "main.js": "/static/js/main.4d99f46b.chunk.js",
-    "main.js.map": "/static/js/main.4d99f46b.chunk.js.map",
+    "main.js": "/static/js/main.1d5e7ff7.chunk.js",
+    "main.js.map": "/static/js/main.1d5e7ff7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.824b76cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.824b76cf.js.map",
     "static/js/2.11bf7ffa.chunk.js": "/static/js/2.11bf7ffa.chunk.js",
@@ -47,6 +47,7 @@
     "static/media/vaibhav.65ac675b.jpg": "/static/media/vaibhav.65ac675b.jpg",
     "static/media/vasu.2296aeb9.jpg": "/static/media/vasu.2296aeb9.jpg",
     "static/media/vatsala.4533db30.jpeg": "/static/media/vatsala.4533db30.jpeg",
+    "static/media/video-poster.b871ef80.jpg": "/static/media/video-poster.b871ef80.jpg",
     "static/media/videoinvite.98bd8c8e.mp4": "/static/media/videoinvite.98bd8c8e.mp4",
     "static/media/vikas.8de956da.jpg": "/static/media/vikas.8de956da.jpg",
     "static/media/vikram1.a01042b3.jpg": "/static/media/vikram1.a01042b3.jpg",
@@ -58,6 +59,6 @@
     "static/js/runtime-main.824b76cf.js",
     "static/js/2.11bf7ffa.chunk.js",
     "static/css/main.040d4f65.chunk.css",
-    "static/js/main.4d99f46b.chunk.js"
+    "static/js/main.1d5e7ff7.chunk.js"
   ]
 }
